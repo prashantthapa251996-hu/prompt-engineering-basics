@@ -2,7 +2,7 @@
 
 ## Project Information
 
-**Name:** \Prashant Thapa
+**Name:** Prashant Thapa
 
 ## Assessment
 
